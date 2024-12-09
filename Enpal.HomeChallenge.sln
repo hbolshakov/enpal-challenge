@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enpal.HomeChallenge.Api", "Enpal.HomeChallenge.Api\Enpal.HomeChallenge.Api.csproj", "{A3C0B7CF-DA20-4A46-910B-39823ADDBB8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{89452D2D-CD2B-423B-B2E9-7CEF4ABB29F3}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enpal.HomeChallenge.Contracts", "Enpal.HomeChallenge.Contracts\Enpal.HomeChallenge.Contracts.csproj", "{03C03BDD-1DE1-4BD2-A311-A9BEDCBB16D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enpal.HomeChallenge.Core", "Enpal.HomeChallenge.Core\Enpal.HomeChallenge.Core.csproj", "{7A4A1D94-78FE-4504-AE40-D3F8AF4ABD46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enpal.HomeChallenge.Infrastructure", "Enpal.HomeChallenge.Infrastructure\Enpal.HomeChallenge.Infrastructure.csproj", "{8A096C7E-8D78-45C8-A5D7-A33AEB49C42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enpal.HomeChallenge.Api.Tests", "Enpal.HomeChallenge.Api.Tests\Enpal.HomeChallenge.Api.Tests.csproj", "{D2AEC64F-D1C1-4D5B-892F-4E588D086AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3C0B7CF-DA20-4A46-910B-39823ADDBB8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C0B7CF-DA20-4A46-910B-39823ADDBB8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C0B7CF-DA20-4A46-910B-39823ADDBB8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C0B7CF-DA20-4A46-910B-39823ADDBB8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C03BDD-1DE1-4BD2-A311-A9BEDCBB16D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C03BDD-1DE1-4BD2-A311-A9BEDCBB16D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C03BDD-1DE1-4BD2-A311-A9BEDCBB16D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C03BDD-1DE1-4BD2-A311-A9BEDCBB16D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4A1D94-78FE-4504-AE40-D3F8AF4ABD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4A1D94-78FE-4504-AE40-D3F8AF4ABD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4A1D94-78FE-4504-AE40-D3F8AF4ABD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4A1D94-78FE-4504-AE40-D3F8AF4ABD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A096C7E-8D78-45C8-A5D7-A33AEB49C42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A096C7E-8D78-45C8-A5D7-A33AEB49C42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A096C7E-8D78-45C8-A5D7-A33AEB49C42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A096C7E-8D78-45C8-A5D7-A33AEB49C42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2AEC64F-D1C1-4D5B-892F-4E588D086AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AEC64F-D1C1-4D5B-892F-4E588D086AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AEC64F-D1C1-4D5B-892F-4E588D086AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AEC64F-D1C1-4D5B-892F-4E588D086AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
